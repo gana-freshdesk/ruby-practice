@@ -129,5 +129,4 @@ MAZE3 = %{#####################################
 
 #m = Maze.new("helAlo \n world \n rBuby is\nennavo")
 m = Maze.new(MAZE1)
-binding.pry
 puts m.solvable?
